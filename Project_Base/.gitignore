@@ -1,0 +1,4 @@
+.scannerwork/
+.nyc_output/
+coverage/
+.deno_plugins/
